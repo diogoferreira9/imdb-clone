@@ -1,10 +1,10 @@
-# 🎬 DEISI IMDB
+# 🎬 IMDB Clone
 
-DEISI IMDB is a Java-based command-line application that parses, indexes, and queries movie data from multiple CSV files. It simulates a lightweight IMDb-like system with functionality for analyzing actors, directors, genres, and films using custom commands.
+IMDB Clone is a Java-based command-line application that parses, indexes, and queries movie data from multiple CSV files. It simulates a lightweight IMDb-like system with functionality for analyzing actors, directors, genres, and films using custom commands.
 
 ## 📁 Project Structure
 
-The core classes are organized under the `pt.ulusofona.aed.deisimdb` package. The project follows a modular design with clear separation between data parsing, object modeling, and query execution.
+The project follows a modular design with clear separation between data parsing, object modeling, and query execution.
 
 ### Main Components
 
@@ -79,13 +79,4 @@ QUIT
 - ✅ Input validation and custom error messages
 - ✅ Special formatting for movies with ID between 100 and 200
 
----
 
-## 📷 Example Output
-
-COUNT_MOVIES_DIRECTOR 100 Steven Spielberg
-5
-
-GET_MOVIES_ACTOR_YEAR 2008 Robert Downey Jr.
-Iron Man
-Tropic Thunder
