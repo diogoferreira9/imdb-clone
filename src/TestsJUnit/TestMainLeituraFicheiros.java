@@ -1,8 +1,7 @@
 package TestsJUnit;
 
 import org.junit.jupiter.api.Test;
-import pt.ulusofona.aed.deisimdb.Main;
-import pt.ulusofona.aed.deisimdb.TipoEntidade;
+import Main.*;
 
 import java.io.File;
 import java.util.ArrayList;

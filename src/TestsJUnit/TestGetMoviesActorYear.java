@@ -4,9 +4,10 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 
 import org.junit.jupiter.api.Test;
-import pt.ulusofona.aed.deisimdb.*;
+import Main.*;
 
 import java.util.ArrayList;
+
 public class TestGetMoviesActorYear {
     @Test
     public void test1FilmeCorreto() {

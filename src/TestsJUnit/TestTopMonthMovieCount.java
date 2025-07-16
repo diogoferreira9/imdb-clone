@@ -1,8 +1,8 @@
 package TestsJUnit;
 import org.junit.jupiter.api.Test;
-import pt.ulusofona.aed.deisimdb.*;
 
 import java.util.ArrayList;
+import Main.*;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
