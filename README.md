@@ -1,4 +1,4 @@
-# 🎬 IMDB
+# IMDB
 
 Welcome to the IMDB project! This application is a movie data analysis tool designed to process and analyze information about films, actors, directors, genres, and votes. It loads structured data from CSV files and provides a wide range of interactive commands for querying and manipulating this data. It's ideal for anyone interested in learning how to work with datasets, implement search features, or simulate an IMDb-like platform in Java.
 
